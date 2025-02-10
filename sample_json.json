@@ -1,0 +1,8 @@
+{"target": "data/isit_umr_undersampled/Hyperplastic/WL/hyperplastic_10.mp4/frame274.jpg", "prompt": "colonoscopy image with hyperplastic polyp, white light imaging"}
+{"target": "data/isit_umr_undersampled/Hyperplastic/WL/hyperplastic_10.mp4/frame129.jpg", "prompt": "colonoscopy image with hyperplastic polyp, white light imaging"}
+{"target": "data/isit_umr_undersampled/Hyperplastic/WL/hyperplastic_10.mp4/frame143.jpg", "prompt": "colonoscopy image with hyperplastic polyp, white light imaging"}
+{"target": "data/SUN_blur/Train_undersampled/Positive/case14/case_M_20190112093830_0U62372011292129_1_001_001-1_a10_ayy_image0016.jpg", "prompt": "colonoscopy image with polyp, good-quality, clear"}
+{"target": "data/SUN_blur/Train_undersampled/Positive/case14/case_M_20190112093830_0U62372011292129_1_001_001-1_a1_ayy_image0195.jpg", "prompt": "colonoscopy image with polyp, good-quality, clear"}
+{"target": "data/SUN_blur/Train_undersampled/Positive/case14/case_M_20190112093830_0U62372011292129_1_001_001-1_a8_ayy_image0082.jpg", "prompt": "colonoscopy image with polyp, good-quality, clear"}
+{"target": "data/SUN_blur/Train_undersampled/Positive/case14/case_M_20190112093830_0U62372011292129_1_001_001-1_a6_ayy_image0060.jpg", "prompt": "colonoscopy image with polyp, good-quality, clear"}
+{"target": "data/SUN_blur/Train_undersampled/Positive/case14/case_M_20190112093830_0U62372011292129_1_001_001-1_a1_ayy_image0334.jpg", "prompt": "colonoscopy image with polyp, good-quality, clear"}
