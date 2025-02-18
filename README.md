@@ -12,5 +12,11 @@ Pathologic diagnosis is a critical phase in deciding the optimal treatment proce
 
 *Figure 1: Overview of the proposed framework. It consists of two stages and uses various text conditioning to control the generation process. In Stage-II, some undersampled data from Stage-I is used for a smoother learning process. Also, the first block of U-Net is kept locked in the second stage. The performance of the proposed model is validated using a classification process which uses a combination of real and synthetic images in different proportions.*
 
+### Different Combinations of Text Prompts and Cross-class labels
+<div align="center">
+<img src="figures/pathopolypdiff_prompt_branch.png" alt="prompt flowchart" width="1000"/> 
+</div>
+
+*Flowchart depicting the different combinations of text prompts and cross-class labels used to generate images. The yellow nodes represent levels 1-3, while the nodes in another color represent levels 4-5. The solid arrows denote the labels already present in the dataset, whereas the dashed arrows represent the labels learnt from other classes (cross-class labels). Each number on a solid/dashed line represents the combination of strings used to form tokens for text prompts used in training/inference. For instance, following number `8', we obtain the text prompt ``colonoscopy image with a hyperplastic polyp, narrow band imaging, good quality, clear'', where ``good quality, clear" are part of indirectly inferred tokens and other are already present in the training annotations.*
 
 This repository will be updated soon!
